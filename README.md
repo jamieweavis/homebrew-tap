@@ -1,6 +1,6 @@
 # Homebrew Gus
 
-> 🍺 Brew tap for gus
+> 🍺 Brew tap & formula for gus
 
 ## Installation
 
