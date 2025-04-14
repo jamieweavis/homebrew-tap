@@ -1,9 +1,19 @@
 # Homebrew Tap
 
+Homebrew tap for my brew formulae
+
 ## Installation
+
+Tap the repository
 
 ```bash
 brew tap jamieweavis/tap
+```
+
+Install formulae
+
+```bash
+brew install gus
 ```
 
 ## Related
