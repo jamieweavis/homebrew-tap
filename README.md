@@ -1,12 +1,9 @@
-# Homebrew Gus
-
-Brew tap & formula for gus - Git User Switcher
+# Homebrew Tap
 
 ## Installation
 
 ```bash
-brew tap jamieweavis/gus
-brew install gus
+brew tap jamieweavis/tap
 ```
 
 ## Related
