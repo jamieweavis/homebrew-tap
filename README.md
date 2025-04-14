@@ -1,6 +1,6 @@
 # Homebrew Gus
 
-> 🍺 Brew tap & formula for gus
+Brew tap & formula for gus - Git User Switcher
 
 ## Installation
 
@@ -11,4 +11,4 @@ brew install gus
 
 ## Related
 
-- [gus](https://github.com/jamieweavis/gus) - 🐻 Git user switcher for quickly switching between local git users
+- [gus](https://github.com/jamieweavis/gus) - Git User Switcher - Simple command line utility for quickly/easily switching between local git users
